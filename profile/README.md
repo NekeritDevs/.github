@@ -49,12 +49,6 @@ Revisamos las contribuciones activamente. El código limpio, documentado y con s
 
 ---
 
-## Código de Conducta
-
-Seguimos un principio simple: respeto técnico y personal en todas las interacciones. Puedes consultar el [`CODE_OF_CONDUCT.md`](./CODE_OF_CONDUCT.md) de la organización para más detalle.
-
----
-
 ## Licencia
 
 Los proyectos open source de esta organización están licenciados bajo [MIT License](https://mit-license.org) salvo que se indique lo contrario en el repositorio correspondiente.
